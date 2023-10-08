@@ -4,4 +4,7 @@ void main() {
 
   firstName = 'Muh';
   lastName = 'Fane';
+
+  print(firstName);
+  print(lastName);
 }
